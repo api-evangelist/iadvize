@@ -1,0 +1,49 @@
+{
+    "name": "iAdvize",
+    "description": "<p>We&rsquo;re all about great conversations, they&rsquo;re at the heart of what we do. We believe in conversations that spark curiosity, questions, reflexion and action. iAdvize&rsquo;s first conversation was between founders Julien and Jon when they first chatted about how a chat solution could add a human touch to online customer service. Well that conversation never ended and now, there are 180 of us. We&rsquo;re still conversing and the chat tool&rsquo;s become a conversational marketing platform. Join the conversation is iAdvize&rsquo;s rallying cry. It&rsquo;s an invitation to hack the established, to design the unexpected, to ship the unsinkable, to delight the customer and to join the party.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28341-developers-iadvize-com.jpg",
+    "tags": [
+        "api provider",
+        "experts",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/iadvize\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "iAdvize",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28341-developers-iadvize-com.jpg",
+            "humanURL": "https:\/\/www.iadvize.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/iadvize-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/iadvize"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/iadvize"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.iadvize.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.iadvize.com"
+        }
+    ]
+}
